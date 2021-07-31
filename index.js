@@ -15,6 +15,8 @@ let colors = ['red','green','blue'];
 colors[3]='brown';
 console.log(colors.length); //for finding how many elements are there in array
 
+
+
 //functions(performing a task)
 
 function greet(name){  //declaration
@@ -23,6 +25,8 @@ function greet(name){  //declaration
 }
 greet('Rita');   //calling
 greet('Aashi');
+
+
 
 //functions(calculating a value)
 
